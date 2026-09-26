@@ -1,4 +1,4 @@
-pH_simulado,V_teorico_V,cuenta_DAC,V_DAC_real_V
-4,2.537,196,2.536
-7,1.650,127,1.644
-10,0.763,58,0.751
+pH_simulado,V_teorico_V,cuenta_DAC,V_DAC_real_V,V_medido_V
+4,2.537,196,2.536,2.485
+7,1.650,127,1.644,1.637
+10,0.763,58,0.751,0.817
