@@ -40,7 +40,7 @@ El punto de pH 7 se desplaza a 1,65 V porque el DAC del ESP32 solo entrega entre
 
 ## Integrantes
 
-- [Cava Leon, Elmer Alexis — código]
-- [Diaz Melendez, Sofia Marleny — código]
+- [Cava Leon, Elmer Alexis — 23190437]
+- [Diaz Melendez, Sofia Marleny — 23190439]
 - Enriquez Villalobos, Cristhian Anghelo — 23190440
-- [Huarcaya Gabi — código]
+- [Huarcaya Vasquez, Alice — 23190121]
